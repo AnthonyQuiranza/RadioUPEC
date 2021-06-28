@@ -1,22 +1,15 @@
 {
-    "Data": [
-      {
-        "ID": 53,
-        "RadioName": "UPEC",
-        "RadioURL": "http://mindalae.upec.edu.ec:8000/;",
-        "RadioDesc": "The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
-        "RadioShortDesc": null,
-        "RadioWebsite": "http://www.desiworldradio.com",
-        "RadioPic": "PIC_URL"
-      },
-      {
-        "ID": 54,
-        "RadioName": "Desi Music Mix",
-        "RadioURL": "http://66.23.234.242:8012/;",
-        "RadioDesc": "Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
-        "RadioShortDesc": null,
-        "RadioWebsite": "http://www.desimusicmix.com/",
-        "RadioPic": "PIC_URL"
-      }     
-    ]
+  "Data":[
+     {
+        "ID":1,
+        "RadioName":"Mindalae Radio UPEC",
+        "RadioURL":"https://streamingecuador.net:7644/radiola9612",
+        "RadioDesc":"Radio universitaria",
+        "RadioShortDesc":null,
+        "RadioWebsite":"https://upec.edu.ec/",
+        "RadioPic":"https://1.bp.blogspot.com/-xdEgOp7EjGY/YIA99aNBHbI/AAAAAAAAFcY/M-lnPR5MFxMHMfvH1t-rQf2KEvHsMHEfgCLcBGAsYHQ/s320/Mindalae.png"
+     }
+ ],
+"Message":"72",
+"Result":1
 }
