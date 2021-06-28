@@ -68,7 +68,7 @@ class PlayerProvider with ChangeNotifier {
     });
 
     _audioPlayer.onPlayerStateChanged.listen((AudioPlayerState state) async {
-      print("Estado" + state.toString());
+      print("Flutter : state : " + state.toString());
       if (state == AudioPlayerState.PLAYING) {
         //updatePlayerState(RadioPlayerState.PLAYING);
         //notifyListeners();
@@ -81,7 +81,6 @@ class PlayerProvider with ChangeNotifier {
 
   playRadio() async {
     await _audioPlayer.play(currentRadio.radioURL, stayAwake: true);
-    print(currentRadio.radioURL);
   }
 
   stopRadio() async {

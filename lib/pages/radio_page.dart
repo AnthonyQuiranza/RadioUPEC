@@ -83,10 +83,10 @@ class _RadioPageState extends State<RadioPage> {
 
     if (this.widget.isFavouriteOnly ||
         (this.widget.isFavouriteOnly && _searchQuery.text.isNotEmpty)) {
-      noDataTxt = "No Favorites";
+      noDataTxt = "...";
       showTextMessage = true;
     } else if (_searchQuery.text.isNotEmpty) {
-      noDataTxt = "No Radio Found";
+      noDataTxt = "Radio Fuera de servicio";
       showTextMessage = true;
     }
 
