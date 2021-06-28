@@ -1,0 +1,15 @@
+{
+   "Data":[
+      {
+         "ID":53,
+         "RadioName":"Mindalae Radio UPEC",
+         "RadioURL":"http://mindalae.upec.edu.ec:8000/;",
+         "RadioDesc":"Radio universitaria",
+         "RadioShortDesc":null,
+         "RadioWebsite":"https://upec.edu.ec/",
+         "RadioPic":"https://1.bp.blogspot.com/-xdEgOp7EjGY/YIA99aNBHbI/AAAAAAAAFcY/M-lnPR5MFxMHMfvH1t-rQf2KEvHsMHEfgCLcBGAsYHQ/s320/Mindalae.png"
+      }
+	],
+"Message":"72",
+"Result":1
+}
